@@ -1,7 +1,6 @@
 <html>
   <body>
-    
-  <script type='text/javascript'>
+<script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
@@ -9,7 +8,7 @@
 			embeddedservice_bootstrap.init(
 				'00D4C00000090k1',
 				'Test_Chat_01',
-				'https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat011695999703107',
+				'https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat011696000810512',
 				{
 					scrt2URL: 'https://bellevue-university--staging.sandbox.my.salesforce-scrt.com'
 				}
@@ -19,6 +18,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat011695999703107/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat011696000810512/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 </body>
 </html>
