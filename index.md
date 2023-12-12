@@ -21,6 +21,5 @@
 <script type='text/javascript' src='https://bellevue-university--staging.sandbox.my.site.com/ESWSFCALLCHAT1702400869202/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 
-
 </body>
 </html>
