@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D4C00000090k1',
-				'Test_Chat_01',
-				'https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat011696006689397',
+				'Test_Chat_01_GH',
+				'https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat01GH1702389107628',
 				{
 					scrt2URL: 'https://bellevue-university--staging.sandbox.my.salesforce-scrt.com'
 				}
@@ -18,9 +18,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat011696006689397/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
+<script type='text/javascript' src='https://bellevue-university--staging.sandbox.my.site.com/ESWTestChat01GH1702389107628/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 </body>
 </html>
