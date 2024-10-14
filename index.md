@@ -2,7 +2,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 </head>
 	<body>
-	<style type='text/css'>
+<style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
 		font-family: "Arial", sans-serif;
@@ -38,7 +38,7 @@
 
 		embedded_svc.init(
 			'https://bellevue-university--staging.sandbox.my.salesforce.com',
-			'https://bellevue-university--staging.sandbox.my.site.com/studentsuccessportal',
+			'https://bellevue-university--staging.sandbox.my.site.com/ESWSFCALLCHAT1702400869202vforcesite',
 			gslbBaseURL,
 			'00D4C00000090k1',
 			'Brutus_Bot',
@@ -48,7 +48,7 @@
 				buttonId: '573O5000000j6Vt',
 				baseLiveAgentURL: 'https://d.la12s-core1.sfdc-lywfpd.salesforceliveagent.com/chat',
 				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04IO50000007PzNMAU_1919e0ec771',
-				isOfflineSupportEnabled: false
+				isOfflineSupportEnabled: true
 			}
 		);
 	};
