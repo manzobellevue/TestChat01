@@ -41,7 +41,7 @@
 			'https://bellevue-university--staging.sandbox.my.site.com/ESWSFCALLCHAT1702400869202vforcesite',
 			gslbBaseURL,
 			'00D4C00000090k1',
-			'Brutus_Bot',
+			'BrutusBot',
 			{
 				baseLiveAgentContentURL: 'https://c.la12s-core1.sfdc-lywfpd.salesforceliveagent.com/content',
 				deploymentId: '572O5000002iWJB',
